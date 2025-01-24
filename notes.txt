@@ -1,0 +1,12 @@
+DOM:-
+- DOM stands for document object model
+- DOM is used to add , remove , update to content int the html document
+- it is used tomanipulate the content in the html document
+
+DOM methods:-
+-document.getElementsById("");
+-document.getElementsByClassName("");
+-document.getElementsByTagName("");
+-document.getElementsByName("");
+-document.querySelector("");
+-document.querySelectorAll("");
