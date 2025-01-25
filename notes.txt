@@ -10,3 +10,13 @@ DOM methods:-
 -document.getElementsByName("");
 -document.querySelector("");
 -document.querySelectorAll("");
+
+events in DOM:-
+-Events are nothing but actions performed on html elements.
+-Events ore of click events , mouse events , key events.
+
+dynamic creation of html elements from javascript:-
+***********
+- to create dynamic element in javascript we have a method called as "document.createE1"
+- to create an atribute we have a meythod called as "setattribute()";
+
