@@ -22,3 +22,7 @@ dynamic creation of html elements from javascript:-
 - to remove attribute we have "removeAttribute()".
 - any element is created in javascript will not add directly to 
 
+1. take a array of employe object, where each object contains properties such as empId, empName, empCompany, empSalary, empAddress,where 
+empAddress further having two or more properties of objects such as empCity, empArea print these properties in the form of table on the UI by using javascript
+
+
